@@ -12,5 +12,4 @@
 ![DECAHTHUK's GitHub stats](https://github-readme-stats.vercel.app/api?username=DECAHTHUK&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DECAHTHUK&theme=transparent)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 ![Bye](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
