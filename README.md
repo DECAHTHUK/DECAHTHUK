@@ -2,9 +2,9 @@
 # Hi 👋🏻 I'm Aleksey 
 ### 👨‍💻 About me:
 #### I am a java developer from Russia
-- 🎓 I’m obtaining a bachelor's degree in CS at <a href = "https://nnov.hse.ru/en/ba/se/">HSE University</a>
+- 🎓 I’m obtaining a masters's degree in CS at <a href = "https://nnov.hse.ru/en/ba/se/">HSE University</a>
 - 🎤 I speak 🇷🇺 russian and 🇬🇧 english(Advanced)
-- 🤖 I'm using Java for development for over 13 months
+- 🤖 I'm using Java for development for over 3 years
 - ✔️ Check my CV in the <a href="https://hh.ru/resume/6814df80ff0b6ab41f0039ed1f374c51455169">link</a>
 
 # 📈My GitHub stats!
